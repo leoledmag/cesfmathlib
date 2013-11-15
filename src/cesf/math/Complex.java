@@ -114,10 +114,10 @@ public class Complex {
     }
     
     // versió estàtica de la funció suma
-    public static Complex add(Complex a, Complex b) {
-        double real = a.re + b.re;
-        double imag = a.im + b.im;
-        return new Complex(real, imag);
+    public static Complex add(Complex aa, Complex b) {
+        double r = aa.re + b.re;
+        double imag = aa.im + b.im;
+        return new Complex(r, imag);
     }
 
 
