@@ -1,3 +1,6 @@
+/**
+ * Document editat per Leonardo Ledesma Maguilla
+ */
 package cesf.math;
 
 // classe immutable per a representar fraccions enteres
