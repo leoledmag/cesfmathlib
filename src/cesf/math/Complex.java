@@ -1,3 +1,4 @@
+//Leonardo Ledesma Maguilla
 package cesf.math;
 
 // Classe per disposar de nombres complexos
